@@ -116,7 +116,7 @@ La manera recomendada de ejecutar la aplicación es de forma local usando un ent
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/JuanFranciscoRamosChavez/examen-parcial1.git
-   cd proyecto-profeco
+   cd examen-parcial1
    ```
    
 2. **Crear y activar un entorno virtual**:
