@@ -212,5 +212,3 @@ La manera recomendada de ejecutar la aplicación es de forma local usando un ent
 - Segmentación del mercado mexicano en categorías de precio
 - Identificación de productos estratégicos y patrones de precios
 - Reportes ejecutivos con hallazgos principales
-#   e x a m e n - p a r c i a l 1  
- 
